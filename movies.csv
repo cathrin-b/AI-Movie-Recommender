@@ -1,0 +1,108 @@
+movie_id,title,year,genres,overview
+1,The Shawshank Redemption,1994,Drama,A wrongly convicted banker forms an unlikely friendship and quietly plans an escape from a brutal prison.
+2,The Godfather,1972,Drama|Crime,A mafia patriarch hands control of his empire to his reluctant youngest son.
+3,The Dark Knight,2008,Action|Crime|Drama,A vigilante battles a chaos-driven criminal mastermind for the soul of a corrupt city.
+4,Pulp Fiction,1994,Crime|Drama,"Interlocking stories of hitmen, boxers, and gangsters unfold with dark humor and nonlinear timing."
+5,Forrest Gump,1994,Drama|Romance,"A kind-hearted, slow-witted man stumbles through decades of American history and love."
+6,Inception,2010,Sci-Fi|Action|Thriller,A thief who steals secrets from dreams is offered a chance to plant an idea instead.
+7,The Matrix,1999,Sci-Fi|Action,A hacker discovers reality is a simulation and joins a rebellion against machine overlords.
+8,Fight Club,1999,Drama|Thriller,An insomniac office worker and a soap salesman build an underground fighting movement.
+9,Interstellar,2014,Sci-Fi|Drama|Adventure,A pilot leads a mission through a wormhole to find humanity a new home among the stars.
+10,The Lord of the Rings: The Fellowship of the Ring,2001,Fantasy|Adventure,A hobbit and his companions set out to destroy a ring that could doom the world.
+11,Star Wars,1977,Sci-Fi|Adventure,A farm boy joins rebels to rescue a princess and destroy a planet-killing battle station.
+12,Goodfellas,1990,Crime|Drama,A young man rises through the ranks of the mob and watches his world unravel.
+13,The Silence of the Lambs,1991,Thriller|Horror|Crime,A trainee FBI agent consults an imprisoned cannibal to catch a serial killer.
+14,Se7en,1995,Thriller|Crime,Two detectives hunt a killer who stages murders around the seven deadly sins.
+15,Gladiator,2000,Action|Drama,A betrayed Roman general becomes a gladiator to avenge his family and defy an emperor.
+16,The Departed,2006,Crime|Thriller,An undercover cop and a mob mole race to expose each other inside the Boston underworld.
+17,Whiplash,2014,Drama|Music,A driven young drummer clashes with a ruthless instructor obsessed with greatness.
+18,Parasite,2019,Drama|Thriller|Comedy,A poor family cons its way into a wealthy household with unexpected consequences.
+19,The Green Mile,1999,Drama|Fantasy,A death row guard discovers a condemned man possesses a miraculous gift.
+20,Saving Private Ryan,1998,War|Drama,A squad of soldiers is sent behind enemy lines to bring one man home from war.
+21,Schindler's List,1993,Drama|War|History,A German businessman gradually risks everything to save Jewish workers during the Holocaust.
+22,The Prestige,2006,Drama|Mystery|Sci-Fi,Two rival stage magicians escalate their feud into obsession and sabotage.
+23,The Usual Suspects,1995,Crime|Mystery|Thriller,A small-time con man recounts a heist gone wrong tied to a mythic crime lord.
+24,Memento,2000,Mystery|Thriller,A man with short-term memory loss hunts his wife's killer using notes and tattoos.
+25,Eternal Sunshine of the Spotless Mind,2004,Romance|Sci-Fi|Drama,A heartbroken man undergoes a procedure to erase memories of a failed relationship.
+26,La La Land,2016,Romance|Music|Drama,An aspiring actress and a jazz pianist chase their dreams while falling in love in Los Angeles.
+27,Amelie,2001,Romance|Comedy,A whimsical Parisian waitress secretly orchestrates happiness for those around her.
+28,Titanic,1997,Romance|Drama,A penniless artist and a wealthy young woman fall in love aboard a doomed ocean liner.
+29,Pride and Prejudice,2005,Romance|Drama,"A spirited young woman navigates class, family, and misjudged first impressions in love."
+30,Notting Hill,1999,Romance|Comedy,A humble bookshop owner falls for a famous actress who wanders into his shop.
+31,500 Days of Summer,2009,Romance|Comedy|Drama,A greeting-card writer looks back on a relationship that didn't end the way he hoped.
+32,The Notebook,2004,Romance|Drama,A summer romance between two young lovers is tested by class and time.
+33,Superbad,2007,Comedy,Two inseparable best friends scramble through one chaotic night before graduation.
+34,Bridesmaids,2011,Comedy,A maid of honor's life unravels while she tries to plan her best friend's wedding.
+35,The Grand Budapest Hotel,2014,Comedy|Adventure,A legendary concierge and his protege get tangled in a stolen painting and a family feud.
+36,Groundhog Day,1993,Comedy|Fantasy|Romance,A cynical weatherman relives the same day until he learns to actually live it.
+37,Ferris Bueller's Day Off,1986,Comedy,A charming high schooler fakes sick and turns a day of freedom into an urban adventure.
+38,The Hangover,2009,Comedy,Three friends piece together a wild bachelor-party night after losing the groom.
+39,Knives Out,2019,Mystery|Comedy|Crime,A famous detective unravels a web of lies after a wealthy novelist's suspicious death.
+40,Get Out,2017,Horror|Thriller|Mystery,A young man uncovers a sinister secret during a visit to his girlfriend's family estate.
+41,Hereditary,2018,Horror|Drama,"A family unravels as dark, inherited secrets resurface after a devastating loss."
+42,A Quiet Place,2018,Horror|Sci-Fi|Thriller,A family survives in silence to avoid blind creatures that hunt by sound.
+43,The Conjuring,2013,Horror|Thriller,Paranormal investigators help a haunted family confront a malevolent presence.
+44,It,2017,Horror|Fantasy,A group of kids confronts a shape-shifting entity that preys on their small town.
+45,28 Days Later,2002,Horror|Sci-Fi,A man wakes from a coma into a Britain ravaged by a rage-driven infection.
+46,Alien,1979,Horror|Sci-Fi,A commercial spaceship crew is hunted by a deadly extraterrestrial stowaway.
+47,Jurassic Park,1993,Adventure|Sci-Fi,A theme park of cloned dinosaurs spirals into chaos when the systems fail.
+48,Back to the Future,1985,Sci-Fi|Adventure|Comedy,A teenager is accidentally sent to the past and must repair the timeline of his own family.
+49,E.T. the Extra-Terrestrial,1982,Sci-Fi|Family|Adventure,A boy befriends a stranded alien and helps him find a way home.
+50,Guardians of the Galaxy,2014,Sci-Fi|Action|Comedy,A ragtag crew of misfits bands together to stop a fanatic from destroying a planet.
+51,Mad Max: Fury Road,2015,Action|Sci-Fi|Adventure,A rebel driver and a warrior escape a tyrant across a relentless desert wasteland.
+52,John Wick,2014,Action|Thriller|Crime,A retired hitman seeks vengeance against the men who wronged him.
+53,Die Hard,1988,Action|Thriller,An off-duty cop battles terrorists who seize a skyscraper during a Christmas party.
+54,The Bourne Identity,2002,Action|Thriller|Mystery,An amnesiac trained assassin races to uncover his own identity before his handlers find him.
+55,Mission: Impossible - Fallout,2018,Action|Thriller,A covert agent races to stop a plot involving stolen plutonium and old betrayals.
+56,Casino Royale,2006,Action|Thriller,A newly minted secret agent takes on a financier of global terrorism in a high-stakes card game.
+57,Skyfall,2012,Action|Thriller,An aging agent confronts a personal vendetta threatening the intelligence service itself.
+58,Black Panther,2018,Action|Sci-Fi|Adventure,A new king must defend his technologically advanced nation from a vengeful challenger.
+59,The Avengers,2012,Action|Sci-Fi|Adventure,Earth's mightiest heroes assemble to stop an alien invasion led by a vengeful god.
+60,Spider-Man: Into the Spider-Verse,2018,Animation|Action|Adventure,A teenager from Brooklyn discovers he shares his destiny with spider-heroes from other dimensions.
+61,Toy Story,1995,Animation|Family|Comedy,A cowboy doll's world is upended when a flashy spaceman toy becomes his owner's favorite.
+62,Finding Nemo,2003,Animation|Family|Adventure,An anxious clownfish crosses the ocean to rescue his son from an aquarium tank.
+63,Up,2009,Animation|Adventure|Family,An elderly widower ties balloons to his house and flies off on the adventure he always promised.
+64,Coco,2017,Animation|Family|Fantasy,A boy who dreams of music crosses into the Land of the Dead to uncover his family's true history.
+65,Spirited Away,2001,Animation|Fantasy|Adventure,A young girl works in a spirit-world bathhouse to save her parents from a curse.
+66,Inside Out,2015,Animation|Family|Comedy,Personified emotions steer a young girl through the upheaval of moving to a new city.
+67,The Lion King,1994,Animation|Family|Drama,A lion cub flees his kingdom after his father's death and must reclaim his throne.
+68,Shrek,2001,Animation|Comedy|Fantasy,A grumpy ogre reluctantly rescues a princess to reclaim his swamp from a scheming lord.
+69,How to Train Your Dragon,2010,Animation|Family|Adventure,A young Viking befriends the dragon he was raised to slay and changes his village forever.
+70,Django Unchained,2012,Western|Drama,A freed slave partners with a bounty hunter to rescue his wife from a ruthless plantation owner.
+71,No Country for Old Men,2007,Thriller|Crime|Western,A hunter who stumbles on drug money is stalked by an unstoppable killer across the desert.
+72,"The Good, the Bad and the Ugly",1966,Western,Three gunslingers race to find a fortune in gold buried during the Civil War.
+73,Unforgiven,1992,Western|Drama,A retired gunfighter takes one last job that forces him to confront his violent past.
+74,12 Years a Slave,2013,Drama|History,A free Black man is kidnapped and sold into slavery in the antebellum South.
+75,The Social Network,2010,Drama|History,The founding of a world-changing company fractures the friendship at its center.
+76,The Wolf of Wall Street,2013,Drama|Comedy|Crime,"A stockbroker's rise and fall is fueled by fraud, excess, and unchecked ambition."
+77,A Beautiful Mind,2001,Drama|Biography,A brilliant mathematician struggles with schizophrenia while making groundbreaking discoveries.
+78,The Imitation Game,2014,Drama|History|Thriller,A socially awkward mathematician races to crack a Nazi code that could end the war.
+79,Dune,2021,Sci-Fi|Adventure,A young heir is thrust into a war over a desert planet that holds the universe's most valuable resource.
+80,Blade Runner 2049,2017,Sci-Fi|Thriller,A replicant detective uncovers a secret that could unravel the fragile order between humans and machines.
+81,Arrival,2016,Sci-Fi|Drama|Mystery,A linguist is recruited to communicate with mysterious visitors before global panic turns to war.
+82,Ex Machina,2014,Sci-Fi|Drama|Thriller,A programmer is invited to test whether an android's mind is truly conscious.
+83,Her,2013,Sci-Fi|Romance|Drama,A lonely writer falls in love with an intelligent operating system designed to meet his every need.
+84,Children of Men,2006,Sci-Fi|Drama|Thriller,"In a world where no child has been born for years, one man protects humanity's last hope."
+85,The Truman Show,1998,Drama|Comedy|Sci-Fi,A man slowly realizes his entire life has been broadcast as a reality show.
+86,Requiem for a Dream,2000,Drama,Four intertwined lives spiral into addiction with devastating consequences.
+87,American Beauty,1999,Drama,A suburban father's midlife crisis unravels the quiet dysfunction of his family.
+88,There Will Be Blood,2007,Drama,An oil prospector's ruthless ambition consumes everyone around him.
+89,Moonlight,2016,Drama,A young man's identity and sexuality unfold across three chapters of his life in Miami.
+90,Manchester by the Sea,2016,Drama,A withdrawn handyman is forced to confront old grief when he becomes his nephew's guardian.
+91,The Pianist,2002,Drama|War|Biography,A Jewish pianist struggles to survive the destruction of Warsaw during World War II.
+92,Slumdog Millionaire,2008,Drama|Romance,A young man from the Mumbai slums recounts the life story behind his game-show success.
+93,City of God,2002,Drama|Crime,Two boys take different paths through decades of gang violence in a Rio favela.
+94,Oldboy,2003,Thriller|Mystery|Drama,A man seeks revenge after being inexplicably imprisoned alone for fifteen years.
+95,Prisoners,2013,Thriller|Drama|Mystery,A desperate father takes matters into his own hands after his daughter's abduction.
+96,Gone Girl,2014,Thriller|Mystery|Drama,A man becomes the prime suspect when his wife vanishes on their anniversary.
+97,Zodiac,2007,Thriller|Crime|Mystery,A cartoonist becomes obsessed with identifying a serial killer taunting the police with ciphers.
+98,Shutter Island,2010,Thriller|Mystery,A U.S. Marshal investigates a disappearance at an isolated hospital for the criminally insane.
+99,The Sixth Sense,1999,Thriller|Drama|Mystery,A troubled child psychologist tries to help a boy who claims he can see the dead.
+100,Coraline,2009,Animation|Fantasy|Horror,A girl discovers an idealized parallel world hiding a sinister truth behind a small door.
+101,WALL-E,2008,Animation|Sci-Fi|Family,A lonely trash-collecting robot on a ruined Earth finds purpose chasing a sleek probe from space.
+102,Ratatouille,2007,Animation|Comedy|Family,A rat with a gift for cooking secretly guides a clumsy chef through a Parisian kitchen.
+103,Zootopia,2016,Animation|Comedy|Mystery,A rookie rabbit officer and a con-artist fox uncover a conspiracy in a city of anthropomorphic animals.
+104,Kung Fu Panda,2008,Animation|Action|Comedy,An unlikely panda is chosen as a legendary warrior meant to protect his valley.
+105,Moana,2016,Animation|Adventure|Family,A chief's daughter sails beyond her reef to save her island alongside a fallen demigod.
+106,Frozen,2013,Animation|Family|Fantasy,"A princess sets out to find her sister, whose icy powers have plunged their kingdom into eternal winter."
+107,Your Name,2016,Animation|Romance|Fantasy,Two teenagers mysteriously swap bodies and race against time to meet before a looming disaster.
